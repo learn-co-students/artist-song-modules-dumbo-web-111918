@@ -1,4 +1,4 @@
-# Refactoring with Modules
+~~~~~~~~~~# Refactoring with Modules
 
 ## Objectives
 
@@ -181,7 +181,7 @@ class that *didn't* define such a variable.
 
 Is there a way to reference the collection of *all* of the instances of a
 class, without specifically referencing class variables that are only defined
-in certain classes?
+in certain classes?~~~~~~~~~~
 
 
 ### Step 2: Instance Methods
