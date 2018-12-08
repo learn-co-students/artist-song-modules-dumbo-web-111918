@@ -39,4 +39,8 @@ class Artist
   def to_param
     name.downcase.gsub(' ', '-')
   end
+
+  def cool
+    puts "done"
+  end
 end
